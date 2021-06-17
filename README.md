@@ -1,4 +1,4 @@
-# Whitepaper
+# Abstract
 An in depth description of Dogeroid and the Dogeroid Space Platform.
 Here you will find information about the nature of the blockchain, it's secotrs and it's paradigm.
 Also, read about the participants and future endeavors.
